@@ -174,6 +174,7 @@ connecting.
 | Perplexity | [MCP server documentation](https://docs.perplexity.ai/docs/getting-started/integrations/mcp-server) (`https://api.perplexity.ai/mcp`, Streamable HTTP) | Real-time web search, conversational answers, and advanced reasoning | Perplexity API key | `official` `web-search` `reasoning` |
 | Robot Speed | [MCP documentation](https://www.robot-speed.com/mcp) (`https://www.robot-speed.com/api/mcp`, Streamable HTTP) | SEO audits, Core Web Vitals, keywords, AI visibility, traffic, backlinks, and CMS publishing | 12 free tools without auth; OAuth for paid features | `official` `seo` `marketing` |
 | Tavily | [MCP server documentation](https://docs.tavily.com/documentation/mcp) (`https://mcp.tavily.com/mcp`, Streamable HTTP) | Real-time web search, web-page extraction, and site mapping | Tavily OAuth or API key | `official` `web-search` `extraction` |
+| US Code MCP | [Developer docs](https://uscode.ecfr.io/developers) (`https://uscode.ecfr.io/mcp`, Streamable HTTP) | Read-only statute search (`search_uscode`), section retrieval (`get_section`), and title browsing (`list_titles`) with paginated text, citations linked to uscode.ecfr.io, and published OLRC release metadata. Independent OLRC corpus mirror, not a government service. | None | `legal` `statutes` `us-code` `citations` |
 
 ### Browser and Automation
 
