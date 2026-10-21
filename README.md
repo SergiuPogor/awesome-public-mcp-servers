@@ -100,6 +100,7 @@ connecting.
 
 | Provider / server | Connection details | Capabilities | Auth | Tags |
 | --- | --- | --- | --- | --- |
+| Agent Payment Node | [Official source and setup](https://github.com/nuanu-ai/agent-payment-node#readme) (local stdio: `apn mcp serve`) | x402 purchases and crypto transfers on macOS; signing requires foreground owner approval | No key for discovery; configured wallet/provider and owner approval for payments; network fees apply | `official` `payments` `crypto` |
 | [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
 | AgentServices | [MCP details](https://agentservices.to) (`https://api.agentservices.to/mcp`) | x402-paid crypto and market data APIs - BTC indicators, DeFi stats, macro data, exchange analytics, 54 services, and 37 MCP tools | No API key; x402 USDC payment for paid tools | `official` `market-data` `crypto` |
 | Aperture Wallet Knowledge | [Official source and connection guide](https://github.com/devdasx/aperture#model-context-protocol-mcp) (`https://aperturex.io/mcp/`, Streamable HTTP) | Search and fetch citation-ready Aperture Wallet product facts, security boundaries, supported mainnets, documented features, App Store releases, screen semantics, and complete Journal articles; no wallet, balance, credential, signing, or transaction access | None; public read-only knowledge only | `official` `crypto-wallet` `documentation` |
